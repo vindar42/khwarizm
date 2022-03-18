@@ -77,13 +77,13 @@ p{
 {
 
   .up-follow-img {
-    width:0%;
+    width:50%;
     display: none;
 
   }
   .container .article
   {
-    width: 100%;
+    width: 80%;
   }
   .container .article .article-img, 
   {
